@@ -1,0 +1,22 @@
+10
+20
+none
+40
+50
+
+1000
+2000
+3000
+
+5000
+6000
+
+its work to filling missing data with
+auto calculated 
+its work to linear method 
+
+peserve data integrity
+smooth trends
+avoid data loss 
+
+interpolate()
